@@ -1,0 +1,5 @@
+AUC Engagement only: 0.750 (95% CI 0.741-0.758)
+AUC Assessment only: 0.767 (95% CI 0.758-0.774)
+AUC Engagement + Assessment: 0.793 (95% CI 0.786-0.800)
+AUC difference Assessment - Engagement: 0.017 (95% CI 0.008 to 0.026)
+AUC difference Both - Engagement: 0.044 (95% CI 0.037 to 0.050)

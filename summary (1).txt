@@ -1,0 +1,48 @@
+Enrollments total: 32593 | unique students: 28785
+Main cutoff: day 56; test n = 15087; at-risk rate (test) = 0.416
+[GB] Engagement only: AUC=0.750, AP=0.708, precision@10%=0.894
+[GB] Assessment only: AUC=0.767, AP=0.703, precision@10%=0.899
+[GB] Engagement + Assessment: AUC=0.793, AP=0.750, precision@10%=0.910
+[LR] Engagement only: AUC=0.749
+[LR] Assessment only: AUC=0.760
+[LR] Engagement + Assessment: AUC=0.798
+Share of at-risk students with HIGH engagement (above module median): 0.320
+Fail-rate by engagement level (row %):
+Outcome              Fail / Withdrawn  Pass / Distinction
+Engagement                                               
+High (above median)              26.8                73.2
+Low (below median)               57.2                42.8
+Group audit (recall at top 20%):
+             attribute   group                   model     n  n_at_risk  recall_at_top20
+                Gender       F         Engagement only  6456       2539            0.317
+                Gender       F Engagement + Assessment  6456       2539            0.334
+                Gender       M         Engagement only  8631       3734            0.416
+                Gender       M Engagement + Assessment  8631       3734            0.423
+            Disability       N         Engagement only 13677       5548            0.377
+            Disability       N Engagement + Assessment 13677       5548            0.387
+            Disability       Y         Engagement only  1410        725            0.368
+            Disability       Y Engagement + Assessment  1410        725            0.386
+              Age band    0-35         Engagement only 10487       4562            0.405
+              Age band    0-35 Engagement + Assessment 10487       4562            0.407
+              Age band   35-55         Engagement only  4488       1675            0.299
+              Age band   35-55 Engagement + Assessment  4488       1675            0.337
+Deprivation (IMD) band   0-10%         Engagement only  1420        721            0.372
+Deprivation (IMD) band   0-10% Engagement + Assessment  1420        721            0.394
+Deprivation (IMD) band   10-20         Engagement only  1524        753            0.417
+Deprivation (IMD) band   10-20 Engagement + Assessment  1524        753            0.426
+Deprivation (IMD) band  20-30%         Engagement only  1635        787            0.368
+Deprivation (IMD) band  20-30% Engagement + Assessment  1635        787            0.409
+Deprivation (IMD) band  30-40%         Engagement only  1621        681            0.391
+Deprivation (IMD) band  30-40% Engagement + Assessment  1621        681            0.395
+Deprivation (IMD) band  40-50%         Engagement only  1475        610            0.384
+Deprivation (IMD) band  40-50% Engagement + Assessment  1475        610            0.392
+Deprivation (IMD) band  50-60%         Engagement only  1460        605            0.402
+Deprivation (IMD) band  50-60% Engagement + Assessment  1460        605            0.408
+Deprivation (IMD) band  60-70%         Engagement only  1408        541            0.338
+Deprivation (IMD) band  60-70% Engagement + Assessment  1408        541            0.344
+Deprivation (IMD) band  70-80%         Engagement only  1372        539            0.334
+Deprivation (IMD) band  70-80% Engagement + Assessment  1372        539            0.351
+Deprivation (IMD) band  80-90%         Engagement only  1348        472            0.383
+Deprivation (IMD) band  80-90% Engagement + Assessment  1348        472            0.388
+Deprivation (IMD) band 90-100%         Engagement only  1229        398            0.354
+Deprivation (IMD) band 90-100% Engagement + Assessment  1229        398            0.329

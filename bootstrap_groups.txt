@@ -1,0 +1,4 @@
+Gender gap (M minus F), Engagement only: 0.100 (95% CI 0.077 to 0.125)
+Age band gap (35-55 minus 0-35), Engagement only: -0.107 (95% CI -0.134 to -0.081)
+Gender gap (M minus F), Engagement + Assessment: 0.090 (95% CI 0.066 to 0.114)
+Age band gap (35-55 minus 0-35), Engagement + Assessment: -0.071 (95% CI -0.097 to -0.043)
