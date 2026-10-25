@@ -1,0 +1,31 @@
+cutoff_day,test_set,features,n_test,auc,ap,precision_at_10pct
+56,all test,Engagement (raw),15087,0.75,0.708,0.894
+56,all test,Engagement (rank within course),15087,0.751,0.711,0.891
+56,all test,Assessment only,15087,0.767,0.703,0.899
+56,all test,Both (raw),15087,0.793,0.75,0.91
+56,all test,Both (rank within course),15087,0.794,0.753,0.91
+56,test without CCC,Engagement (raw),11848,0.751,0.698,0.888
+56,test without CCC,Engagement (rank within course),11848,0.755,0.703,0.888
+56,test without CCC,Assessment only,11848,0.757,0.67,0.875
+56,test without CCC,Both (raw),11848,0.786,0.725,0.889
+56,test without CCC,Both (rank within course),11848,0.786,0.727,0.892
+84,all test,Engagement (raw),14589,0.756,0.697,0.884
+84,all test,Engagement (rank within course),14589,0.766,0.715,0.902
+84,all test,Assessment only,14589,0.804,0.76,0.969
+84,all test,Both (raw),14589,0.819,0.773,0.964
+84,all test,Both (rank within course),14589,0.823,0.784,0.98
+84,test without CCC,Engagement (raw),11509,0.759,0.691,0.884
+84,test without CCC,Engagement (rank within course),11509,0.771,0.71,0.9
+84,test without CCC,Assessment only,11509,0.798,0.738,0.93
+84,test without CCC,Both (raw),11509,0.813,0.752,0.923
+84,test without CCC,Both (rank within course),11509,0.817,0.767,0.971
+112,all test,Engagement (raw),14155,0.802,0.746,0.922
+112,all test,Engagement (rank within course),14155,0.806,0.745,0.915
+112,all test,Assessment only,14155,0.832,0.78,0.977
+112,all test,Both (raw),14155,0.854,0.812,0.98
+112,all test,Both (rank within course),14155,0.854,0.811,0.977
+112,test without CCC,Engagement (raw),11232,0.814,0.75,0.925
+112,test without CCC,Engagement (rank within course),11232,0.812,0.74,0.907
+112,test without CCC,Assessment only,11232,0.833,0.78,0.976
+112,test without CCC,Both (raw),11232,0.856,0.812,0.981
+112,test without CCC,Both (rank within course),11232,0.856,0.808,0.974

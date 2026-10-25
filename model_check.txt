@@ -1,0 +1,27 @@
+Base rate at-risk (test): 0.416; max possible sensitivity with 20% flagged: 0.481
+[Engagement only] overall sensitivity 0.376
+  at-risk with HIGH engagement: n=2005, sensitivity 0.071
+  at-risk with LOW engagement:  n=4268, sensitivity 0.519
+  Fail: n=3806, sensitivity 0.401
+  Withdrawn: n=2467, sensitivity 0.336
+  gender=F, Fail: n=1569, sensitivity 0.329
+  gender=F, Withdrawn: n=970, sensitivity 0.298
+  gender=M, Fail: n=2237, sensitivity 0.452
+  gender=M, Withdrawn: n=1497, sensitivity 0.361
+  age_band=0-35, Fail: n=2822, sensitivity 0.430
+  age_band=0-35, Withdrawn: n=1740, sensitivity 0.364
+  age_band=35-55, Fail: n=963, sensitivity 0.318
+  age_band=35-55, Withdrawn: n=712, sensitivity 0.272
+[Engagement + Assessment] overall sensitivity 0.387
+  at-risk with HIGH engagement: n=2005, sensitivity 0.183
+  at-risk with LOW engagement:  n=4268, sensitivity 0.483
+  Fail: n=3806, sensitivity 0.383
+  Withdrawn: n=2467, sensitivity 0.393
+  gender=F, Fail: n=1569, sensitivity 0.319
+  gender=F, Withdrawn: n=970, sensitivity 0.357
+  gender=M, Fail: n=2237, sensitivity 0.428
+  gender=M, Withdrawn: n=1497, sensitivity 0.416
+  age_band=0-35, Fail: n=2822, sensitivity 0.403
+  age_band=0-35, Withdrawn: n=1740, sensitivity 0.412
+  age_band=35-55, Fail: n=963, sensitivity 0.327
+  age_band=35-55, Withdrawn: n=712, sensitivity 0.350
